@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Timeshift Panel Indicator
+Comment=Shows Timeshift status in panel
+Exec=/usr/local/bin/timeshift-panel-indicator.py
+Icon=system-run
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
